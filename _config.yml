@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Huiyu ZHU"
+title                    : "Hui-Yu ZHU ZHU"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : "Hui-Yu ZHU"
+description              : "Do not go gentle into that good night. "
+url                      : "https://jacquelynzhy.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Huiyu ZHU"
+  name             : "Hui-Yu ZHU"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Korea"
   employer         : "Institute for Basic Science"
-  uri              : "https://ibs.re.kr/ctpu-cga/"
+  uri              : "https://inspirehep.net/authors/1873038?ui-citation-summary=true"
   email            : "hzhuav@ibs.re.kr" 
 
   # Academic websites
@@ -45,13 +45,13 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "https://www.facebook.com/huiyu.zhu.18/"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "jacquelyn_zhy"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
