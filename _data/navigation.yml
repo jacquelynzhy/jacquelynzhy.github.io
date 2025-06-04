@@ -9,14 +9,9 @@
 
 main:
 
-  - title: "Research"
-    url: /markdown/
-    
   - title: "Teaching"
     url: /teaching/ 
 
-  #- title: "Research"
-  #  url: /publications/
 
    - title: "CV"
      url: /cv/
@@ -26,7 +21,14 @@ main:
         
   - title: "Others"
     url: /year-archive/
+
     
+ # - title: "Research"
+  #  url: /markdown/
+    
+    
+  #- title: "Research"
+  #  url: /publications/
 
 
 #  - title: "Talks"
