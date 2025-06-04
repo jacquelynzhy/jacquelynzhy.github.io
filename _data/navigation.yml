@@ -23,8 +23,8 @@ main:
     url: /year-archive/
 
     
- # - title: "Research"
-  #  url: /markdown/
+  - title: "Research"
+    url: /markdown/
     
     
   #- title: "Research"
