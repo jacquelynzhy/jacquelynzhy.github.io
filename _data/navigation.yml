@@ -14,9 +14,16 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
+
+
   - title: "Research"
     url: /teaching/    
 
+
+  - title: "CV"
+    url: /assets/Your_new_CV.pdf
+
+    
   - title: "Outreach"
     url: /markdown/
     
@@ -26,8 +33,7 @@ main:
   - title: "Blog"
     url: /year-archive/
     
-  - title: "CV"
-    url: /assets/Your_new_CV.pdf
+
     
   # - title: "CV"
   #   url: /cv-json/
