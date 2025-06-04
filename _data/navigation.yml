@@ -10,7 +10,7 @@
 main:
 
   - title: "Research"
-    url: /cv/
+    url: /markdown/
     
   - title: "Teaching"
     url: /teaching/ 
@@ -19,7 +19,7 @@ main:
   #  url: /publications/
 
    - title: "CV"
-     url: /cv-json/
+     url: /cv/
    
   - title: "Music"
     url: /portfolio/
