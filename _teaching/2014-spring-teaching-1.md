@@ -1,10 +1,10 @@
 ---
 title: "Black Hole Superradiance"
 collection: teaching
-type: " "
+type: "Worshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: " "
-date:  " "
+venue: "University 1, Department "
+date:  "2014.1.1"
 location: "City, Country"
 ---
 
