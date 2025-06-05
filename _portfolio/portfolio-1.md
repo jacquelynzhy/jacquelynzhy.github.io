@@ -4,6 +4,8 @@ excerpt: "The LIGO-Virgo-KAGRA (LVK) collaboration has offered groundbreaking in
 collection: portfolio
 ---
 
+<br/><img src='/images/SuperRad.png'>
+
 # Description
 
 The main motivation for studying black hole (BH) superradiance is to explore how astrophysical objects with strong gravitational effects can be used to probe particles beyond the Standard Model (BSM), which interact only weakly with baryonic matter. A rotating BH can generate an ultralight boson cloud through purely gravitational interactions, forming a so-called "Gravitational Atom" (GA). This structure can produce observable imprints, such as gravitational wave (GW) signals, that carry information about the properties of these ultralight BSM particles.
