@@ -10,7 +10,7 @@ author_profile: true
 
 # Piano 
 
-Apart from physics, I am also a pianist with over 20 years of training. During my undergraduate years, I founded the Piano Association at SUSTech and served as its vice president. You can listen to me playing one of my favorite melodies from the classical repertoire [here](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F3986204497%2F%3F_spm_id%3DMTE0NDk3NTQw&_i=488410099fdbc81&dt_dapp=1) — Rachmaninoff's Piano Concerto No. 2, second movement.
+Apart from physics, I am also a pianist with over 20 years of training. During my undergraduate years, I founded the Piano Association at SUSTech and served as its vice president. You can listen to me playing one of my favorite melodies from the classical music history [here](https://www.douban.com/doubanapp/dispatch?uri=%2Fstatus%2F3986204497%2F%3F_spm_id%3DMTE0NDk3NTQw&_i=488410099fdbc81&dt_dapp=1) — Rachmaninoff's Piano Concerto No. 2, second movement.
 
 Thanks to my perfect pitch, I also rearrange ACG music and upload it to [Bilibili](https://space.bilibili.com/2215256?spm_id_from=333.337.0.0) — often referred to as the Chinese YouTube — where I have around 22,000 followers.
 
