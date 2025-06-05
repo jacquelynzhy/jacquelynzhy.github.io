@@ -13,3 +13,9 @@ When a GA has a binary companion, even more interesting phenomena can arise. For
 Furthermore, when the binary companion lies within the boson cloud, ionization (or dynamical friction) can be more efficient than GW emission in depleting the orbital energy. Additionally, the presence of the binary companion can influence the growth rate of the cloud itself. Please check my publications below for more details.
 
 # Publications
+
+* Q. Ding, M. He, V. Takhistov, and H. Y. Zhu, [“Superradiant Bosons Driving Supermassive Black Hole Mergers”](https://arxiv.org/pdf/2505.09696)
+* H. Y. Zhu, X. Tong, G. Manzoni, and Y. Ma, [“Survival of the Fittest: Testing Superradiance Termination with Simulated Binary Black Hole Statistics”](https://arxiv.org/pdf/2409.141590)
+* K. Fan, X. Tong, Y. Wang, and H. Y. Zhu, [“Modulating binary dynamics via the termination of black hole superradiance”](https://arxiv.org/pdf/2311.17013)
+*  X. Tong, Y. Wang and, H. Y. Zhu, [“Termination of superradiance from a binary companion”](https://arxiv.org/pdf/2205.10527)
+*  X. Tong, Y. Wang and H. Y. Zhu, [“Gravitational Collider Physics via Pulsar–Black Hole Binaries II: Fine and Hyperfine Structures Are Favored”](https://arxiv.org/pdf/2106.13484)
