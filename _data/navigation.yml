@@ -25,9 +25,11 @@ main:
   - title: "CV"
     url: /assets/Your_new_CV.pdf
 
-    
   - title: "Others"
-    url: /markdown/
+    url: /others/
+    
+#  - title: "Others"
+#    url: /markdown/
 
         
   - title: "Supplemental"
