@@ -19,8 +19,8 @@ Thanks to my perfect pitch, I also rearrange ACG music and upload it to [Bilibil
 
 # Music
 
-Besides the piano, I was also the principal cellist in my university orchestra, although I didn’t continue playing the cello after graduation.
+In addition to the piano, I served as the principal cellist in my university orchestra, although I have not continued playing the cello since graduation.
 
-I’m open to all kinds of music, but I’m especially drawn to classical music, particularly Late Romantic (like Rachmaninoff and Tchaikovsky), Nationalist composers (such as Dvořák and Borodin), and Impressionists (like Ravel and Debussy).
+While I’m open to all kinds of music, I’m particularly drawn to classical genres—especially the Late Romantic period (such as Rachmaninoff and Tchaikovsky), Nationalist composers (like Dvořák and Borodin), and Impressionists (including Ravel and Debussy).
 
-Outside of classical music, I find myself more into genres like Jazz, R&B, Funk, and City Pop. 
+Beyond classical music, I also enjoy genres such as jazz, R&B, funk, and city pop. 
