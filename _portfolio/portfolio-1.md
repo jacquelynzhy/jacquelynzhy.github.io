@@ -17,6 +17,8 @@ Furthermore, when the binary companion lies within the boson cloud, ionization (
 
 # My Research Interest 
 
+<br/><img src='/images/plot.png'>
+
 My research focuses on how binary companions can influence the properties of black hole superradiance and gravitational atoms. For example, we found that the tidal effects caused by a binary companion can significantly alter the growth rate of the scalar cloud. If the binary separation is small enough or the companion mass is large enough, superradiance can even be [terminated](https://arxiv.org/pdf/2205.10527). In this case, the cloud is reabsorbed by the black hole, causing the gravitational atom to lose its energy. This process backreacts on the binary companion, [modifying its orbital parameters](https://arxiv.org/pdf/2311.17013). A statistical work on the impact of the termination effect can be found [here](https://arxiv.org/pdf/2409.14159).
 
 In a [recent](https://arxiv.org/pdf/2505.09696) study, we used supermassive black hole (SMBH) binaries to probe ultralight bosons (ULBs) without relying on dark matter assumptions, placing new constraints on ULB mass. A superradiant ULB cloud formed around a spinning SMBH can accelerate binary mergers through cloud-induced dynamical friction, especially at final-parsec separations. By analyzing the orbital decay of the century-monitored OJ287 binary system with our model, we derived a novel constraint on the ULB mass. This additional energy dissipation mechanism also suppresses the stochastic gravitational wave background, introducing a turnover feature in the nanohertz band. Our theory is testable with future pulsar timing array data and precision measurements of SMBH binary orbits. 
