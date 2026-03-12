@@ -25,10 +25,13 @@ My research focuses on how binary companions can influence the properties of bla
 
 In a [recent](https://arxiv.org/pdf/2505.09696) study, we used supermassive black hole (SMBH) binaries to probe ultralight bosons (ULBs) without relying on dark matter assumptions, placing new constraints on ULB mass. A superradiant ULB cloud formed around a spinning SMBH can accelerate binary mergers through cloud-induced dynamical friction, especially at final-parsec separations. By analyzing the orbital decay of the century-monitored OJ287 binary system with our model, we derived a novel constraint on the ULB mass. This additional energy dissipation mechanism also suppresses the stochastic gravitational wave background, introducing a turnover feature in the nanohertz band. Our theory is testable with future pulsar timing array data and precision measurements of SMBH binary orbits. 
 
+We also completed a [project](https://arxiv.org/pdf/2512.06790), aiming to explain the superradiant instability within a quantum framework by canonically quantizing a massive scalar field in the Kerr spacetime. After performing the canonical quantization, we find that the evolution of the particle number in the cloud, as well as the energy and angular momentum of the scalar field, can be consistently explained within the standard framework of quantum field theory in curved spacetime. We show that the growth of the cloud occurs independently of the choice of the initial state. 
+
 Follow-up works can be found in the publication list below.
 
 # Publications
 
+* L. F, H. Omiya, T. Tanaka, X. Tong, Y. Wang, and H. Y. Zhu, ["Quantum Treatment of Black Hole Superradiance"](https://arxiv.org/pdf/2512.06790)
 * Q. Ding, M. He, and H. Y. Zhu, ["Extracting Properties of Dark Dense Environment Around Black Holes From Gravitational Waves"](https://arxiv.org/pdf/2510.27424)
 * Q. Ding, M. He, V. Takhistov, and H. Y. Zhu, [“Dark Matter-Independent Orbital Decay Bounds on Ultralight Bosons from OJ287”](https://arxiv.org/pdf/2505.09696)
 * H. Y. Zhu, X. Tong, G. Manzoni, and Y. Ma, [“Survival of the Fittest: Testing Superradiance Termination with Simulated Binary Black Hole Statistics”](https://arxiv.org/pdf/2409.14159)
