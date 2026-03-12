@@ -23,4 +23,5 @@ Primordial fluctuations, such as scalar and tensor fluctuations ($h^{(n)}$), are
 In my [previous](https://arxiv.org/pdf/2210.17176) work, we uncover a significant one-loop contribution, which was neglected by the previous study. However, in a low-frequency area, this contribution has an extra frequency dependence, making it comparable with the one-loop contribution people are interested in before. Most importantly, we cannot distinguish these two contributions from the observation. Our detailed analysis shows that this new contribution is negative and scale-invariant, and it can reduce the initial tensor power spectrum by at most 35% in the low-frequency region, which can explain the absence of polarization B-modes in the CMB observations.
 
 # Publications
+*  A. Ota, H. Y. Zhu and Y. Zhu, [“Real-time Gravitational Wave Response in Thermal Spinning fields”](https://arxiv.org/pdf/2601.03631)
 *  C. Chen, A. Ota, H. Y. Zhu and Y. Zhu, [“Missing one-loop contributions in secondary gravitational waves”](https://arxiv.org/pdf/2210.17176)
