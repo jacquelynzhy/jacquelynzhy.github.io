@@ -30,7 +30,6 @@ We also completed a [project](https://arxiv.org/pdf/2512.06790), aiming to expla
 Follow-up works can be found in the publication list below.
 
 # Publications
-
 * L. F, H. Omiya, T. Tanaka, X. Tong, Y. Wang, and H. Y. Zhu, ["Quantum Treatment of Black Hole Superradiance"](https://arxiv.org/pdf/2512.06790)
 * Q. Ding, M. He, and H. Y. Zhu, ["Extracting Properties of Dark Dense Environment Around Black Holes From Gravitational Waves"](https://arxiv.org/pdf/2510.27424)
 * Q. Ding, M. He, V. Takhistov, and H. Y. Zhu, [“Dark Matter-Independent Orbital Decay Bounds on Ultralight Bosons from OJ287”](https://arxiv.org/pdf/2505.09696)
